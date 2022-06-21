@@ -2,9 +2,9 @@
 .data
    array: .space 20
     n: .word 0
-	teksti1: .asciiz "Jep numrin e anetareve te vektorit (max. 5) : "
-	teksti2: .asciiz "\nShtyp elementet nje nga nje:\n "
-	teksti3: .asciiz "\nVlerat e vektorit ne fund : \n "
+	teksti1: .asciiz "Give array size number (max. 5) : "
+	teksti2: .asciiz "\nPrint elements one by one:\n "
+	teksti3: .asciiz "\nSorted array : \n "
 	newline: .asciiz "\n"
 
 	
