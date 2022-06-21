@@ -1,2 +1,3 @@
-# Arkitektura e kompjutereve
-Projekti i pare nga lenda Arkitekture e Kompjutereve
+# Computer Architecture
+
+Implementation of selection sort algorithm
